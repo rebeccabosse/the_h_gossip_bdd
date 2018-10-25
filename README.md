@@ -3,6 +3,8 @@
 
 Auteures: Rebecca Bossé et Charlotte Vaudour
 
+Application faite par Rails
+
 Chez THP, on est tous fan de cette superbe série d'anticipation qu'est Gossip girl et on va créer une plateforme pour pouvoir commérer tous ensemble 😏. Sur ce super réseau social, un utilisateur va s'inscrire, renseigner son prénom et nom, son mail et son age, puis il précisera sa ville avec une recherche par code postal. Il aura ensuite toutes les fonctionnalités qui feront de cette appli une future licorne :
 
 Les utilisateurs peuvent créer des potins : "askip john est célib hihi"
